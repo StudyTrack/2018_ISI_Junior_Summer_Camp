@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":8,"title":"","author":"phutchinson","fileName":"2018_ISI_Junior_Summer_Camp.pdf","bounds":[[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":["Page 1","Page 2","Page 3","Page 4","Page 5","Page 6","Page 7","Page 8"]};

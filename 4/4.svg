@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_4{
+fill: #0089C4;
+}
+]]></style>
+</defs>
+<path fill-rule="evenodd" d="M86.9,155.9l153.9,0l0,-68.6l-153.9,0l0,68.6Z" class="g1_4" />
+<path fill-rule="evenodd" d="M87.8,262.7l153,0l0,-69.8l-153,0l0,69.8Z" class="g1_4" />
+<path fill-rule="evenodd" d="M87.8,368.3l153,0l0,-65l-153,0l0,65Z" class="g1_4" />
+<path fill-rule="evenodd" d="M87.8,471.2l152,0l0,-64.1l-152,0l0,64.1Z" class="g1_4" />
+<path fill-rule="evenodd" d="M86.3,561l735.5,0l0,-37.8l-735.5,0l0,37.8Z" class="g1_4" />
+<path fill-rule="evenodd" d="M86.3,836.8l154.3,0l0,-85.4l-154.3,0l0,85.4Z" class="g1_4" />
+<path fill-rule="evenodd" d="M86.3,1053.5l154.3,0l0,-82.1l-154.3,0l0,82.1Z" class="g1_4" />
+</svg>
